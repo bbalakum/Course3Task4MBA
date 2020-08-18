@@ -1,0 +1,37 @@
+,Median Values,,,0.015,0.31,1.75,148,
+,Mean Values,,,0.019,0.33,1.81,193,
+Confidence Ranking,"lhs
+(The possible cross-sell/preferred Items)",,"rhs
+(Given that this Item is Bought)",support,confidence,lift,count,Intepretation of Results
+[1],"{Acer Aspire,ViewSonic Monitor}",=>,{HP Laptop},0.010777834,0.602272727,3.102856088,106,"1. Support: 1 in 100 times, {Acer Aspire, View Sonic Monitor, HP Laptop} are bought together
+2. Confidence: 60% of the time, Customers buy {Acer Aspire, View Sonice Monitor} given that they bought {HP Laptop}; Directional
+3. Lift: There is a 3 times more positive relationship between  {Acer Aspire, View Sonice Monitor} & {HP Laptop} than a random relationship that these are actually bought together"
+[2],"{ASUS 2 Monitor,Lenovo Desktop Computer}",=>,{iMac},0.010879512,0.591160221,2.30808288,107,
+[3],"{Apple Magic Keyboard,Dell Desktop}",=>,{iMac},0.010167768,0.584795322,2.28323223,100,
+[4],"{ASUS Monitor,HP Laptop}",=>,{iMac},0.011794611,0.582914573,2.275889172,116,
+[5],"{ASUS 2 Monitor,HP Laptop}",=>,{iMac},0.011082867,0.582887701,2.275784254,109,
+[6],"{Dell Desktop,ViewSonic Monitor}",=>,{HP Laptop},0.015251652,0.574712644,2.960868963,150,
+[7],"{Dell Desktop,ViewSonic Monitor}",=>,{iMac},0.014743264,0.555555556,2.169070619,145,
+[8],"{Lenovo Desktop Computer,ViewSonic Monitor}",=>,{iMac},0.015760041,0.555555556,2.169070619,155,
+[9],"{HP Laptop,Microsoft Office Home and Student 2016}",=>,{iMac},0.012913066,0.552173913,2.15586758,127,
+[10],"{Acer Desktop,ViewSonic Monitor}",=>,{iMac},0.01006609,0.543956044,2.123782331,99,
+[11],"{Acer Desktop,Lenovo Desktop Computer}",=>,{iMac},0.012302999,0.530701754,2.072033249,121,
+[12],"{CYBERPOWER Gamer Desktop,ViewSonic Monitor}",=>,{iMac},0.012811388,0.527196653,2.058348186,126,
+[13],"{Apple Magic Keyboard,Lenovo Desktop Computer}",=>,{iMac},0.0113879,0.516129032,2.015136575,112,
+[14],"{Acer Desktop,HP Laptop}",=>,{iMac},0.015963396,0.511400651,1.99667543,157,
+[15],"{Apple Magic Keyboard,HP Laptop}",=>,{iMac},0.014743264,0.51056338,1.993406449,145,
+[16],"{Dell Desktop,Lenovo Desktop Computer}",=>,{iMac},0.018607016,0.506925208,1.979201833,183,
+[17],"{HP Laptop,HP Monitor}",=>,{iMac},0.010574479,0.502415459,1.961594299,104,
+[18],"{CYBERPOWER Gamer Desktop,ViewSonic Monitor}",=>,{HP Laptop},0.012201322,0.50209205,2.586734056,120,
+[19],"{HP Laptop,Lenovo Desktop Computer}",=>,{iMac},0.023080834,0.5,1.952163557,227,
+[20],{ASUS Monitor},=>,{iMac},0.027656329,0.499082569,1.948581605,272,
+[21],"{Dell Desktop,HP Laptop}",=>,{iMac},0.022267412,0.495475113,1.934496918,219,
+[22],"{Lenovo Desktop Computer,ViewSonic Monitor}",=>,{HP Laptop},0.01403152,0.494623656,2.548257546,138,
+[23],"{HP Laptop,ViewSonic Monitor}",=>,{iMac},0.0236909,0.493644068,1.927347919,233,
+[24],{ASUS 2 Monitor},=>,{iMac},0.02806304,0.486772487,1.900519018,276,
+[25],"{Acer Aspire,Lenovo Desktop Computer}",=>,{iMac},0.010879512,0.484162896,1.890330322,107,
+[26],"{iMac,ViewSonic Monitor}",=>,{HP Laptop},0.0236909,0.479423868,2.469949578,233,
+[27],"{Apple Magic Keyboard,Lenovo Desktop Computer}",=>,{HP Laptop},0.010574479,0.479262673,2.469119113,104,
+[28],"{HP Laptop,LG Monitor}",=>,{iMac},0.010269446,0.474178404,1.851347599,101,
+[29],"{Acer Aspire,Dell Desktop}",=>,{HP Laptop},0.011082867,0.467811159,2.410121921,109,
+[30],"{Acer Aspire,Dell Desktop}",=>,{iMac},0.011082867,0.467811159,1.826487791,109,
